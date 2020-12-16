@@ -7,7 +7,7 @@ Hi, I'm Uduak John, but you can call me UdBerg. I am a passionate Full-Stack Dev
 
 - 🔭 I’m currently studying remotely through pair-programming with amazing folks all around the world at [Microverse](https://github.com/microverseinc)
 
-- 💬 Connect with, and ask me about anything [here](udberg@icloud.com)
+- 💬 Connect with, and ask me about anything [here!](https://twitter.com/juduak_)
 
 
 
