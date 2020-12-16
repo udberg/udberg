@@ -13,7 +13,7 @@ I'm Uduak John but you can call me UdBerg. I'm a Full-Stack Developer from Niger
 
 ## Little More About Me
 
-I am very much a kid at heart, I love listening to classical music and hip-hop though I’d throw them out for Frank Sinatra (Haha… just kidding),
+I am very much a kid at heart, I love listening to classical music and hip-hop though I’d throw them out for Frank Sinatra and Coldplay (Haha… just kidding),
 and play video games. I do not know how to cook and do not also understand why people are always so excited about it either. I love meeting new people and 
 learning new things, so please feel free to say hello and share a story with me. When I am not reading, I’m most likely on my 
 computer writing about mental health, and learning to code or I’m volunteering online when I’m not talking to kids in Nigeria’s inner-city secondary schools about mental health. I'm good at Team Building and collaboration. My secret sauce is getting people excited about the things I'm excited about and about their lives too. I spend my weekends at the movies or sourcing for new books to read at my downtime.  I'm currently focusing on becoming a 
