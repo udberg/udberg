@@ -3,7 +3,7 @@
 
 <br />
 
-Hi, I'm Uduak John, but you can call me UdBerg. I am a passionate Full-Stack Developer from Nigeria.
+I'm Uduak John, but you can call me UdBerg. I am a passionate Full-Stack Developer from Nigeria.
 
 - 🔭 I’m currently studying remotely through pair-programming with amazing folks all around the world at [Microverse](https://github.com/microverseinc)
 
