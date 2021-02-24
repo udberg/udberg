@@ -42,7 +42,7 @@ good full-stack developer that can build things anywhere no matter how challengi
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=black" />
 </p>
 
-[![Uduak John's github stats](https://github-readme-stats.vercel.app/api?username=udberg&show_icons=true&theme=buefy)](https://github.com/udberg/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=udberg&show_icons=true&theme=buefy&layout=compact)](https://github.com/udberg/github-readme-stats)
+[![Uduak John's github stats](https://github-readme-stats.vercel.app/api?username=udberg&show_icons=true&theme=black)](https://github.com/udberg/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=udberg&show_icons=true&theme=black&layout=compact)](https://github.com/udberg/github-readme-stats)
 
 <h3>You Can Find Me On</h3>
 <p><a href="https://github.com/udberg" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/juduak_" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/juduak/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a></p>
