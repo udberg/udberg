@@ -1,4 +1,4 @@
-### Hi There // Hola // Salut, I'm [John!](https://www.instagram.com/juduak_/) 👋
+### Hi There // Hola // Salut, I'm [John!](https://uduak.me/) 👋
 
 
 <br />
