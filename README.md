@@ -1,11 +1,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=udberg&label=Profile%20views&color=0e75b6&style=flat" alt="udberg" /> </p>
 
-### Hi There // Hola // Salut, I'm [John!](https://uduak.me/) 👋
+### Hi 👋, I'm [Uduak!](https://uduak.me/)
 
 
 <br />
 
-I'm Uduak John but you can call me UdBerg. I'm a Full-Stack Developer from Nigeria.
+I'm Uduak John. A Full-Stack Developer from Nigeria.
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=udberg&row=1&theme=monokai" alt="udberg" /></a> </p>
 
 
 - 🔭 I’m currently studying remotely through pair-programming with amazing folks all around the world at [Microverse](https://github.com/microverseinc)
