@@ -5,6 +5,8 @@
 
 I'm Uduak John but you can call me UdBerg. I'm a Full-Stack Developer from Nigeria.
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=udberg&label=Profile%20views&color=0e75b6&style=flat" alt="udberg" /> </p>
+
 - 🔭 I’m currently studying remotely through pair-programming with amazing folks all around the world at [Microverse](https://github.com/microverseinc)
 
 - 💬 Connect with, and ask me about anything [here!](https://twitter.com/juduak_)
