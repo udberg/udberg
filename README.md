@@ -10,7 +10,7 @@ I'm Uduak John. A Full-Stack Developer from Nigeria.
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=udberg&row=1&theme=monokai" alt="udberg" /></a> </p>
 
 
-- 🔭 I’m currently studying remotely through pair-programming with amazing folks all around the world at [Microverse](https://github.com/microverseinc)
+- 🔭 Currently a Project & Code Reviewer at [Microverse](https://github.com/microverseinc)
 
 - 💬  Connect with, and ask me about anything [here!](https://twitter.com/juduak_)
 
