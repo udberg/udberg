@@ -10,6 +10,9 @@
 
 
 - 🔭 Currently a Project & Code Reviewer at [Microverse](https://github.com/microverseinc)
+- 🔭 Immersively pursuing a Software certification in C, Graphic, and Unix Programming, Infrastructure Design and Management, Reverse Engineering and Security.
+- Learning Solidity and SC Development in my downtime.
+- Currently building in private.
 
 - 💬  Connect with, and ask me about anything [here!](https://twitter.com/juduak_)
 
