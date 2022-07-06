@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=udberg&label=Profile%20views&color=0e75b6&style=flat" alt="udberg" /> </p>
 
-### Hi 👋, I'm [Uduak!](https://uduak.me/) A Full-Stack Developer from Nigeria.
+### Hi 👋, I'm [Uduak!](https://uduak.me/) A Full-Stack Developer.
 
 
 <br />
@@ -9,10 +9,9 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=udberg&row=1&theme=monokai" alt="udberg" /></a> </p>
 
 
-- 🔭 Currently a Project & Code Reviewer at [Microverse](https://github.com/microverseinc)
-- 🔭 Immersively pursuing a Software certification in C, Graphic, and Unix Programming, Infrastructure Design and Management, Reverse Engineering and Security.
-- Learning Solidity and SC Development in my downtime.
-- Currently building in private.
+- 🔭 Project & Code Reviewer at [Microverse](https://github.com/microverseinc)
+- 🔭 Learning Solidity and SC Development in my downtime.
+-  Building a cryptocurrency payment infrastructure for the African market. Yes, it's Audacious, and I look forward to learning and growing from this experience.
 
 - 💬  Connect with, and ask me about anything [here!](https://twitter.com/juduak_)
 
@@ -20,11 +19,9 @@
 
 ## Little More About Me
 
-I am very much a kid at heart, I love listening to classical music and hip-hop though I’d throw them out for Frank Sinatra and Coldplay (Haha… just kidding :smiley: ),
-and play video games. I do not know how to cook and do not also understand why people are always so excited about it either. I love meeting new people and 
+I am very much a kid at heart, I love listening to classical music and hip-hop though I’d throw them out for Frank Sinatra and Coldplay (Haha… just kidding :smiley: ), and play video games. I do not know how to cook and do not also understand why people are always so excited about it either. I love meeting new people and 
 learning new things, so please feel free to say hello and share a story with me. When I am not reading, I’m most likely on my 
-computer writing about mental health, and learning to code or I’m volunteering online when I’m not talking to kids in Nigeria’s inner-city secondary schools about mental health. I'm good at Team Building and collaboration. My secret sauce is getting people excited about the things I'm excited about and about their lives too. I spend my weekends at the movies or sourcing for new books to read at my downtime.  I'm currently focusing on becoming a 
-good full-stack developer that can build things anywhere no matter how challenging. Functionally and conversationally, I speak a bit of French and Spanish. I'm still struggling to learn Arabic, and maybe become a polyglot someday. Thanks for stopping by! 
+computer writing and speaking about mental health to other Devs, and learning new frameworks. I'm good at Team Building and collaboration. My secret sauce is getting people excited about the things I'm excited about and about their lives too. I spend my weekends at the movies or sourcing for new books to read at my downtime--when I am not fully immersed in code that is. Functionally and conversationally, I speak a bit of French and Spanish.
 
 
 <h3 align="left">Languages and Tools:</h3>
