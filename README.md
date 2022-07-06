@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=udberg&label=Profile%20views&color=0e75b6&style=flat" alt="udberg" /> </p>
 
-### Hi 👋, I'm [Uduak!](https://uduak.me/) A Full-Stack Developer.
+### Hi 👋, I'm [John!](https://uduak.me/) A Full-Stack Developer.
 
 
 <br />
