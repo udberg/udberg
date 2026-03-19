@@ -1,4 +1,4 @@
-## John, Uduak Peter
+## Uduak John
 
 Software engineer transitioning into cybersecurity and digital forensics, 
 with a background in building and optimising production systems at scale.
